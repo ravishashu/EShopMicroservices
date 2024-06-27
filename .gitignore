@@ -4,3 +4,12 @@
 
 /.vs
 /src/.vs/EShopMicroservices/v17
+/src/.vs/EShopMicroservices/DesignTimeBuild
+/src/.vs/EShopMicroservices/FileContentIndex
+/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0
+/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0
+/src/BuildingBlocks/BuildingBlocks/obj
+/src/Services/Catalog/Catalog.API/bin/Debug/net8.0
+/src/Services/Catalog/Catalog.API/obj/Debug/net8.0
+/src/Services/Catalog/Catalog.API/obj
+/src/.vs/EShopMicroservices/config
