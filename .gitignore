@@ -16,3 +16,5 @@
 /src/.vs/ProjectEvaluation
 /src/obj
 /src/bin/Debug
+/src/Services/Basket/Basket.API/bin/Debug/net8.0
+/src/Services/Basket/Basket.API/obj
