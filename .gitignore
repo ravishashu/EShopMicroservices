@@ -18,3 +18,10 @@
 /src/bin/Debug
 /src/Services/Basket/Basket.API/bin/Debug/net8.0
 /src/Services/Basket/Basket.API/obj
+/src/Services/Discount/Disount.Grpc/bin/Debug/net8.0
+/src/Services/Discount/Disount.Grpc/obj
+/Discount.Grpc/obj
+/src/Services/Discount/Discount.Grpc/bin/Debug/net8.0
+/src/Services/Discount/Discount.Grpc/obj/Debug/net8.0/ref
+/src/Services/Discount/Discount.Grpc/obj/Debug/net8.0/refint
+/src/Services/Discount/Discount.Grpc/obj
