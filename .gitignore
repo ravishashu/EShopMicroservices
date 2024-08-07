@@ -25,3 +25,11 @@
 /src/Services/Discount/Discount.Grpc/obj/Debug/net8.0/ref
 /src/Services/Discount/Discount.Grpc/obj/Debug/net8.0/refint
 /src/Services/Discount/Discount.Grpc/obj
+/src/Services/Ordering/Ordering.API/bin/Debug/net8.0
+/src/Services/Ordering/Ordering.API/obj
+/src/Services/Ordering/Ordering.Application/bin/Debug/net8.0
+/src/Services/Ordering/Ordering.Application/obj
+/src/Services/Ordering/Ordering.Domain/bin/Debug/net8.0
+/src/Services/Ordering/Ordering.Domain/obj
+/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net8.0
+/src/Services/Ordering/Ordering.Infrastructure/obj
