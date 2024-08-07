@@ -3,7 +3,7 @@ public class OrderItem : Entity<OrderId>
 {
     internal OrderItem(OrderId orderId, ProductId productId, int quantity, decimal price)
     {
-        Id = OrderItemId.Of(Guid.NewGuid());
+        Id = OrderId.Of(Guid.NewGuid());
         OrderId = orderId;
         OrderId = orderId;
         ProductId = productId;
