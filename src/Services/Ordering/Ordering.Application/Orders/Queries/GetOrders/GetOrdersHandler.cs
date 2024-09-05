@@ -1,5 +1,4 @@
-﻿using BuildingBlocks.Pagination;
-using Microsoft.EntityFrameworkCore;
+﻿﻿using BuildingBlocks.Pagination;
 
 namespace Ordering.Application.Orders.Queries.GetOrders;
 public class GetOrdersHandler(IApplicationDbContext dbContext)
